@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipin Viswanath</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinkt75" alt="vipinkt75" /></a> </p>
-
 - 🔭 I’m currently working at **TELORA AUTOMATION PVT LTD**
 
 - 📫 How to reach me **vipinkt13@gmail.com**
