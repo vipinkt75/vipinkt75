@@ -1,6 +1,6 @@
 <img align="left" src="VIPIN VISWANATH (1).png">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center">
 Experienced Python full-stack developer proficient in Django for developing and deploying web applications. Strong skills in both front-end and back-end development, dedicated to crafting efficient solutions that prioritize user experience. Passionate about coding and problem-solving.</p>
