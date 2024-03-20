@@ -82,7 +82,7 @@ Experienced Python full-stack developer proficient in Django for developing and 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
   </a>
 </p>
 
