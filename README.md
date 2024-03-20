@@ -58,17 +58,17 @@ Experienced Python full-stack developer proficient in Django for developing and 
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,nextjs" />
-  </a>
-</p>
-
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py" />
   </a>
 </p>
 
