@@ -34,7 +34,7 @@ Experienced Python full-stack developer proficient in Django for developing and 
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+<!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life) -->
 
 - 💬 Ask me about **JavaScript, Python, Django**
 
